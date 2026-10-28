@@ -1,0 +1,24 @@
+# Data og modell – regenereres lokalt
+archive/
+model.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Gamle filer fra tidligere oppsett
+main.py
+train_model.py
+static/
+models/
+
+# Editor
+.idea/
+.vscode/
+*.iml
+
+# Miljø
+.env
+venv/
