@@ -1,6 +1,5 @@
-# Data og modell – regenereres lokalt
+# Data – regenereres lokalt
 archive/
-model.joblib
 
 # Python
 __pycache__/

@@ -3,6 +3,8 @@
 Streamlit-app som predikerer om en person har en millionær-profil, basert på maskinlæring.  
 Laget som universitetsprosjekt. Modellen er trent på et syntetisk datasett fra Kaggle.
 
+**Live app:** https://millionaire-habits-ml.streamlit.app/
+
 ## Forutsetninger
 
 - Python 3.9+
